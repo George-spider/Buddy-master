@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Buddy2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Buddy/Buddy.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Buddy/Buddy_Eclipse.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
